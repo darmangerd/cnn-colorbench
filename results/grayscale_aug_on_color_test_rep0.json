@@ -1,0 +1,16 @@
+{
+  "experiment": "grayscale_aug_on_color_test",
+  "repeat": 0,
+  "grayscale": true,
+  "augment": true,
+  "offline_augmented": false,
+  "epochs": 6,
+  "batch_size": 32,
+  "val_acc": 0.7429999709129333,
+  "val_loss": 0.7593151330947876,
+  "train_time_sec": 231.58627200126648,
+  "cpu_mem_train_MB": 1232.203125,
+  "inf_time_cpu_sec": 0.06163654327392578,
+  "inf_mem_cpu_MB": 1455.56953125,
+  "model_params": 590698
+}
