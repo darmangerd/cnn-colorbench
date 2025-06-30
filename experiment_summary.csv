@@ -1,0 +1,8 @@
+experiment,val_acc_mean,val_acc_std,train_time_sec_mean,inf_time_cpu_sec_mean,inf_mem_cpu_MB_mean,model_params_mean,experiment_label
+color_baseline,0.7354,0.0097,236.73,0.0419,1886.218,591274.0,Color (baseline)
+color_on_gray_test,0.6661,0.018,230.4301,0.0493,1153.119,591274.0,Color model on Gray test
+grayscale_aug_on_color_test,0.5878,0.2648,231.5882,0.0493,1239.6789,590698.0,Gray + Aug. model on Color test
+grayscale_offline_aug_100k,0.6627,0.0155,525.2835,0.0412,1297.0057,590698.0,Gray + Offline Aug.
+grayscale_on_color_test,0.7175,0.0038,228.361,0.0424,1199.4453,590698.0,Gray model on Color test
+grayscale_baseline,0.7175,0.0038,238.0059,0.0467,1160.4294,590698.0,Grayscale
+grayscale_aug,0.5878,0.2648,250.5129,0.0498,844.1039,590698.0,Grayscale + Aug.
