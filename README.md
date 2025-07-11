@@ -12,7 +12,7 @@ A benchmark study of CNN classification performance on color vs. grayscale image
 - `experiments-runs/`: Directory containing the results of the experiments that we use for our presentation and analysis.
 - `requirements.txt`: List of required Python packages for the project.
 
-*Note: The `histories/`, `results/`, `saved_models/`,directories are created during the execution of the notebooks and will contain the output of the experiments. As for `experiments-runs/`, it is used only for the presentation and analysis of the results, and it is manually populated with the results of the experiments we have run. We put it in this directory for organizational and storage purposes.*
+*Note: The `histories/`, `results/`, `saved_models/`,directories are created during the execution of the notebooks and will contain the output of the experiments.*
 
 
 ## Usage
@@ -36,9 +36,3 @@ A benchmark study of CNN classification performance on color vs. grayscale image
    ```
    jupyter notebook plots.ipynb
    ```
-
-
-# Contribution from each member
-- Aria: Coded the complete pipeline : handling of the data preprocessing, model initialisation, experiments definition, training and evaluation, and saving the results.
-- Sophia : Coordinated the team and ensured timely completion of tasks
-- 
