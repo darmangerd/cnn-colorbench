@@ -37,3 +37,8 @@ A benchmark study of CNN classification performance on color vs. grayscale image
    jupyter notebook plots.ipynb
    ```
 
+
+# Contribution from each member
+- Aria: Coded the complete pipeline : handling of the data preprocessing, model initialisation, experiments definition, training and evaluation, and saving the results.
+- Sophia : Coordinated the team and ensured timely completion of tasks
+- 
