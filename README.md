@@ -9,7 +9,6 @@ A benchmark study of CNN classification performance on color vs. grayscale image
 - `histories/`: Directory containing the training histories of the models.
 - `results/`: Directory containing the results of the experiments.
 - `saved_models/`: Directory containing the saved models.
-- `experiments-runs/`: Directory containing the results of the experiments that we use for our presentation and analysis.
 - `requirements.txt`: List of required Python packages for the project.
 
 *Note: The `histories/`, `results/`, `saved_models/`,directories are created during the execution of the notebooks and will contain the output of the experiments.*
